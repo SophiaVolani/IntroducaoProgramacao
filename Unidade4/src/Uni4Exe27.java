@@ -28,16 +28,16 @@ public class Uni4Exe27 {
         if (tempo <= 30){
             horas = 1;
         }
-        else if(minutos >= 30) {
+        else if(minutos >= 30){
             horas++;
         }
 
         float valor = 0;
 
-        if (horas <= 2) {
+        if (horas <= 2){
             valor = horas * 5.0f;
         }
-        else if(horas <= 4) {
+        else if(horas <= 4){
             valor = (2 * 5f) + ((horas - 2f) * 7.5f);
         }
         else{
@@ -45,7 +45,6 @@ public class Uni4Exe27 {
         }
 
         System.out.printf("Preço cobrado = R$%.2f", valor);
-
         teclado.close();
     }
 }
