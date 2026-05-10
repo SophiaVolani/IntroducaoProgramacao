@@ -15,3 +15,7 @@ public class Uni4Exe08 {
             teclado.close();
         }
 }
+//Grupo COMPOSTO E e OU (&& e ||)
+//Uni4Exe08.java
+//Dado uma letra, escreva um algoritmo que informe se ela é ou não uma vogal.
+//Para resolver este problema pode se utilizar do algoritmo descrito no FLUXOGRAMA

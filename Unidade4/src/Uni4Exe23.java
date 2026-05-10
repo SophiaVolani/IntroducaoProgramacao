@@ -50,3 +50,5 @@ public class Uni4Exe23 {
         teclado.close();
     }
 }
+
+//Escreva um algoritmo que leia um número inteiro positivo representando um determinado mês do ano e escreva o mês por extenso. Para valores maiores do que 12 informe que o valor não é válido.

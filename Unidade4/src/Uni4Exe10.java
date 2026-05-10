@@ -26,3 +26,4 @@ public class Uni4Exe10 {
         teclado.close();
     }
 }
+//Um casal possui três filhos: Marquinhos, Zezinho e Luluzinha. Faça um algoritmo para ler as idades dos filhos e exibir quem é o caçula da família; suponha que não haja empates.

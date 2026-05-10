@@ -20,3 +20,4 @@ public class Unid4Exe09 {
         teclado.close();
     }
 }
+//Dados dois valores inteiros, escreva um algoritmo que informe se eles são múltiplos ou não.
